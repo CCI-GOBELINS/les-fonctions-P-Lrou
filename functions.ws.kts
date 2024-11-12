@@ -77,7 +77,7 @@ fun isPrime(num: Int): Boolean {
 
 val evenOrOddNumberNumber = 5
 val fibonacciNumber = 10
-val factorialWanted = 100
+val factorialWanted = 6
 val primesNumber = 10
 
 displayEvenOrOddNumbers(evenOrOddNumberNumber, true) // Display even numbers
